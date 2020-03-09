@@ -1,0 +1,14 @@
+body, body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;		/* declared width = rendered width */
+}
+
+a img {
+   border: none;
+}
+
+body {
+
+	background-color: #000;
+}

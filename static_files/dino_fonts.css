@@ -1,0 +1,13 @@
+/* importing the following fonts:  */
+@import url('https://fonts.googleapis.com/css?family=Freckle+Face|Love+Ya+Like+A+Sister|Luckiest+Guy&display=swap');
+
+
+p {
+	font-family: "Luckiest Guy";
+	color: #F5F5F5;
+	em: 1.5;
+}
+
+a{
+	font-effect: underline;
+}
